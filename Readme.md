@@ -1,5 +1,5 @@
 ## WHAT IS IT?
-The general purpose of BEEFOR-ABM is: to model the effect of landscape heterogeneity on foraging movement and the resource-obtaining capacity of bees with different profiles (sizes and sociality). This model is designed to be generic and applicable to several species of pollinator bees, which are defined by some parameters (representing the characteristics required for foraging in the landscape) established in the model interface.
+The general purpose of BEEFOR-ABM (Bee Foraging Movement Agent-Based Model) is: to model the effect of landscape heterogeneity on foraging movement and the resource-obtaining capacity of bees with different profiles (sizes and sociality). This model is designed to be generic and applicable to several species of pollinator bees, which are defined by some parameters (representing the characteristics required for foraging in the landscape) established in the model interface.
 
 ## RECOMMENDATIONS
 The ODD protocol will be available in the RLdaSS et al., 2022 thesis of the Federal University of Bahia, Brazil.
