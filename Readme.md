@@ -7,3 +7,4 @@ We recommend that any publication based on the use of BEEFOR-ABM shall includes,
 
 ## CREDITS AND REFERENCES
 If you mention this model or the NetLogo software in a publication, we ask that you include the citations below. For the model itself: RLdaSS et al., 2022: doctoral thesis from the Federal University of Bahia, Brazil, entitled: Effect of Landscape Heterogeneity on Bee Populations and Communities.
+[![DOI](https://zenodo.org/badge/624451469.svg)](https://zenodo.org/badge/latestdoi/624451469)
